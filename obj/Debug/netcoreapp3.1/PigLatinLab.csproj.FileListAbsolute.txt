@@ -1,0 +1,11 @@
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\PigLatinLab\bin\Debug\netcoreapp3.1\PigLatinLab.exe
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\PigLatinLab\bin\Debug\netcoreapp3.1\PigLatinLab.deps.json
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\PigLatinLab\bin\Debug\netcoreapp3.1\PigLatinLab.runtimeconfig.json
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\PigLatinLab\bin\Debug\netcoreapp3.1\PigLatinLab.runtimeconfig.dev.json
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\PigLatinLab\bin\Debug\netcoreapp3.1\PigLatinLab.dll
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\PigLatinLab\bin\Debug\netcoreapp3.1\PigLatinLab.pdb
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\PigLatinLab\obj\Debug\netcoreapp3.1\PigLatinLab.csprojAssemblyReference.cache
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\PigLatinLab\obj\Debug\netcoreapp3.1\PigLatinLab.AssemblyInfoInputs.cache
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\PigLatinLab\obj\Debug\netcoreapp3.1\PigLatinLab.AssemblyInfo.cs
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\PigLatinLab\obj\Debug\netcoreapp3.1\PigLatinLab.dll
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\PigLatinLab\obj\Debug\netcoreapp3.1\PigLatinLab.pdb
